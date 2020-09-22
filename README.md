@@ -7,7 +7,7 @@ using Bometh.FirebaseDatabase
 
 FirebaseDatabase db = new FirebaseDatabase()
 {
-  link = "Firebase Database Link"
+  link = "Firebase Database Link",
   authsecret = "Firebase Database Secret"
 };
 
